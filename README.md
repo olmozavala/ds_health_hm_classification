@@ -1,4 +1,4 @@
-#  Automatic dectection of Pneumonia from Chest X-rays
+#  Automatic detection of Pneumonia from Chest X-rays
 
 In this homework we will solve a real-life problem using deep learning. 
 The objective is to build a model that can automatically detect pneumonia from chest X-rays.
